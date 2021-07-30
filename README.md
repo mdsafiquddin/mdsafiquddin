@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science and technology.
 - 🌱 I’m currently learning python and Google SEO/search engine optimization.
 - 💞️ I’m looking to collaborate on Digital marketing and programming.
-- 📫 How to reach me on github!
+- 📫 How to reach me on profile: just use my name on Google and you will get my profile.
 
 <!---
 mdsafiquddin/mdsafiquddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
